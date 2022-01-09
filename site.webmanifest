@@ -1,0 +1,23 @@
+   {
+    "name": "Trending Tips & Tricks",
+    "short_name": "TTT",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjrr8340zo4Px7xWhhsl-gAlvkgLJ6SwjSn8DOtu9URUOnKGvDG2l6YNL9MXv_cp217nN5r2SNxyCiSx5e75VyZ6RvL7YgHvlbW2srB1CxcFVQgmIAT7GRrL6PPZ6Rb2CjEKddzghAcDv1ZiHW9pDQ7OrjyRWk7dQ45oT5AAMMIV-_Rfd2wOcG8MiRC=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEghAmAQXyKeyVueSg-Y8AL5JQdBlcjNpE7ZS9PbF0_eZD2e5lRQPdDJtgo2dEUl8q3IkDRRRh50MPykIb3IQAOSNzaXwUnjpsPOqOaY5Ea_ji50bFBVMGsDTaVtZczLzn_aStCKnCVjy3JbEYG1V47EzKrsVvXVhmARgR1B6cWiL-A2L3yN3Yy_HGne=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.trendingtipsandtricks.com/"
+}
